@@ -68,7 +68,7 @@ const downloadCV = () => {
    <div class="text-center animate-fade-in">
     <!-- Photo de profil - taille agrandie -->
     <div class="mb-8 animate-float relative group">
-      <div class="w-48 h-48 md:w-56 md:h-56 lg:w-64 lg:h-64 mx-auto rounded-full bg-gradient-to-r from-[#32bcae] to-[#13514b] p-1">
+      <div class="w-32 h-32 md:w-50 md:h-50 lg:w-60 lg:h-60 mx-auto rounded-full bg-gradient-to-r from-[#32bcae] to-[#13514b] p-1">
         <div class="w-full h-full rounded-full bg-[#101324] overflow-hidden">
           <img 
             :src="profileImage" 
@@ -143,7 +143,7 @@ const downloadCV = () => {
 import Icon from '~/components/Icon.vue'
 
 // Remplace par le chemin de ta photo
-const profileImage = ref('/profil/profil.png')
+const profileImage = ref('/profil/prof.jpg')
 
 const downloadCV = () => {
   window.open('/cv.pdf', '_blank')

@@ -64,14 +64,16 @@ const description = ref("Passionné par le développement backend et l'architect
         </h3>
         <p class="text-xl text-[#32bcae] font-medium">Développeur web & UI/UX Designer</p>
         <p class="text-gray-300 leading-relaxed">
-          Passionné par le développement backend et l'architecture des systèmes, je conçois des applications 
-          robustes et évolutives. Avec une expertise en <span class="text-[#32bcae]">Node.js, Python et bases de données</span>, 
-          je crée des solutions performantes qui répondent aux besoins des entreprises modernes.
+          Passionné par le développement web et la conception d’interfaces, je conçois des applications modernes en alliant performance technique et expérience utilisateur. 
+          J’interviens sur le frontend  ainsi que sur le backend, en mettant en place  <span class="text-[#32bcae]">des architectures propres, maintenables et évolutives.</span>
+          En parallèle, je réalise  <span class="text-[#32bcae]">des travaux de design graphique</span>, notamment la conception de logos, 
+          de chartes graphiques et d’identités visuelles, afin d’assurer une cohérence forte entre le produit et son image.
         </p>
         <p class="text-gray-300 leading-relaxed">
-          Fort de <span class="text-[#32bcae] font-semibold">3+ années d'expérience</span> dans le développement web, 
-          j'ai eu l'opportunité de travailler sur des projets variés, allant de l'API RESTful à l'architecture 
-          microservices, en passant par l'intégration continue et le déploiement cloud.
+          Fort de <span class="text-[#32bcae] font-semibold">3+ années d'expérience</span> dans le développement web,
+          J’accorde une attention particulière à la qualité du code, à l’organisation des projets et à la cohérence visuelle.
+          À travers mes réalisations (applications web, composants UI, systèmes de design), je développe des solutions à la fois fonctionnelles, intuitives et esthétiques. 
+          À l’aise avec Node.js, les API REST et les bases de données, je m’implique également dans la structuration des projets (Atomic Design, gestion des composants et des styles) pour garantir des bases solides et scalables.
         </p>
         <div class="flex flex-wrap gap-4 pt-4">
           <div class="flex items-center space-x-2">
@@ -101,8 +103,8 @@ const description = ref("Passionné par le développement backend et l'architect
         </div>
         <div class="card text-center group">
           <Icon name="mdi:briefcase" class="text-5xl text-[#32bcae] mb-3 mx-auto group-hover:scale-110 transition-transform" />
-          <div class="text-3xl font-bold bg-gradient-to-r from-[#32bcae] to-[#13514b] bg-clip-text text-transparent">10+</div>
-          <div class="text-sm text-gray-400">Projets réalisés</div>
+          <div class="text-3xl font-bold bg-gradient-to-r from-[#32bcae] to-[#13514b] bg-clip-text text-transparent">7+</div>
+          <div class="text-sm text-gray-400">Projets réalisés (confondus)</div>
         </div>
         <div class="card text-center group">
           <Icon name="mdi:school" class="text-5xl text-[#32bcae] mb-3 mx-auto group-hover:scale-110 transition-transform" />

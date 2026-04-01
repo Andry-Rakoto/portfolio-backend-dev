@@ -120,7 +120,7 @@ const projects = ref([
     category: "Frontend - Reprise de code - Design",
     icon: "mdi:cart",
     description: "Conception et développement d'un site e-commerce de vente de VTT de la marque STELLAR. Coté frontend : création from scratch des interfaces utilisateur avec Vue Js tout en respectant la charte graphique de la marque, coté backend : reprise de code de l'ERP : idempiere, développement d'un module d'insertion de données multiples (autre que l'éxistant dans idempiere) pour alimenter les données du site, développement d'un module de produits favoris, export pdf des factures (selon le design). Design: conception du logo, des mockups, et affiches pour le lancement de la marque. ",
-    technologies: ["Vue Js", "Java", "ERP: Idempiere", "Postgresql", "Xd", "Illustrator"]
+    technologies: ["React", "Php", "ERP: Dolibaar", "Postgresql", "Xd", "Illustrator"]
   }
 ])
 </script>
