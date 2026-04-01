@@ -66,7 +66,7 @@ const softSkills = [
   { name: "Adaptabilité", icon: "mdi:update" },
   { name: "Autonomie", icon: "mdi:run-fast" },
   { name: "Leadership", icon: "mdi:star" },
-  { name: "Mentorat", icon: "mdi:school" }
+  { name: "Sens du détail", icon: "mdi:eye" }
 ]
 
 const hardSkills = [

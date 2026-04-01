@@ -8,7 +8,7 @@
             À propos
           </h3>
           <p class="text-gray-400 leading-relaxed">
-            Développeur backend passionné par la création d'applications robustes, 
+            Développeur, Designer passionné par la création d'applications robustes, 
             évolutives et performantes. Disponible pour des missions freelance ou CDI.
           </p>
         </div>
@@ -27,17 +27,17 @@
             <a href="mailto:andrikelinay@gmail.com" 
                class="flex items-center space-x-3 text-gray-400 hover:text-[#32bcae] transition-all duration-300 group">
               <Icon name="mdi:email" class="text-2xl group-hover:scale-110 transition-transform" />
-              <span>andrikelinay@gmail.com</span>
+              <span>Email</span>
             </a>
-            <a href="https://github.com" target="_blank" 
+            <a href="https://github.com/Andry-Rakoto" target="_blank" 
                class="flex items-center space-x-3 text-gray-400 hover:text-[#32bcae] transition-all duration-300 group">
               <Icon name="mdi:github" class="text-2xl group-hover:scale-110 transition-transform" />
               <span>GitHub</span>
             </a>
-            <a href="https://twitter.com" target="_blank" 
+            <a href="#" target="_blank" 
                class="flex items-center space-x-3 text-gray-400 hover:text-[#32bcae] transition-all duration-300 group">
-              <Icon name="mdi:twitter" class="text-2xl group-hover:scale-110 transition-transform" />
-              <span>Twitter</span>
+              <Icon name="mdi:cellphone" class="text-2xl group-hover:scale-110 transition-transform" />
+              <span>0349156352</span>
             </a>
           </div>
         </div>
